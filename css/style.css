@@ -463,13 +463,13 @@ canvas#canvas {
     background:rgba(8, 10, 75, 0.79);
 }
 
-.lorem-text1{
-    color:#fff;
-    text-align: center;
-    position:relative;
-    z-index: 99999;
-    top:-85px;
-    left:0px;
+.lorem-text1 {
+	color: #fff;
+	text-align: center;
+	position: relative;
+	z-index: 999;
+	top: -85px;
+	left: 0px;
 }
 .lorem-text1 h2{
     font-family: 'Playfair Display';
@@ -896,7 +896,7 @@ canvas#canvas {
     color:#BEBDC5;
     position:relative;
     z-index: 9999;
-    left: 326px;
+    left: 312px
 }
 /*--=========== back to top ==============--*/
 .back-top{
