@@ -560,6 +560,7 @@ canvas#canvas {
 	padding-bottom: 0px;
 	font-size: 12px;
 	padding-left: 15px;
+    line-height: 18px;
 }
 .tab-text1 a{
     padding-left: 15px;
