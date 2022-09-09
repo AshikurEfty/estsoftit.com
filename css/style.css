@@ -390,6 +390,7 @@ canvas#canvas {
 	padding-bottom: 30px;
 	font-size: 14px;
 	padding-left: 15px;
+    line-height: 18px;
 }
 .tab-item1{
     border:1px solid #78768D;
@@ -479,7 +480,7 @@ canvas#canvas {
 .lorem-text1 p{
     font-family: 'Playfair Display';
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
 }
 .border3{
     width: 60px;
