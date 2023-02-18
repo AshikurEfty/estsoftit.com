@@ -46,7 +46,7 @@ canvas#canvas {
     transition: all linear .3s;
 }
 .navbar {
-	padding-top: 13px;
+    padding:inherit;
     position: fixed;
     width: 100%;
     z-index: 99999;
@@ -54,7 +54,7 @@ canvas#canvas {
     background:none;
 }
 .navbar2{
-    background:#093771ba;
+    background:#0e1a6aba;
     animation: menu 1s;
 }
 @keyframes menu{
@@ -63,6 +63,7 @@ canvas#canvas {
 }
 .navbar-brand img{
     float:left;
+    width: 90px;
 }
 .navbar-brand h2{
     padding-left: 10px;
@@ -782,6 +783,9 @@ canvas#canvas {
     left: 0px;
     background:rgba(8, 10, 75, 0.79);
     z-index: 999;
+}
+.footer-logo img{
+    width: 100px;
 }
 .footer-item{
     position: relative;
